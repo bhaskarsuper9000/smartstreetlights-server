@@ -5,10 +5,10 @@ This project contains software that when coupled with appropriate hardware can b
 
 
 The project was developed by:
-1. Bhaskar Bandyopadhyay
-2. Shailesh Jain
-3. Prashant P.
-4. Shreyas S.
+- Bhaskar Bandyopadhyay
+- Shailesh Jain
+- Prashant P.
+- Shreyas S.
 
 
 License
